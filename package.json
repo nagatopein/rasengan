@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "inquirer": "^9.0.0"
+    "inquirer": "^8.2.4"
   },
   "name": "rasengan",
   "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
